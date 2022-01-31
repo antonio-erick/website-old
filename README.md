@@ -1,2 +1,3 @@
-# website
-Personal project to try out my skills and improve them.
+# antonio-erick's website
+
+**You can copy the code if you want to.**

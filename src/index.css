@@ -1,0 +1,76 @@
+:root {
+    --primaryColor: #FAFAFA;
+    --secondaryColor: #2A2D34;
+}
+body {
+    margin: 0em;
+    padding: 0em;
+    background-color: var(--secondaryColor);
+}
+main {
+    height: 100vh;
+}
+article {
+    height: 50%;
+}
+img {
+    height: 100%; width: 100%;
+}
+
+.custom-shape-divider-top-1643660103 {
+    position: absolute;
+    z-index: -1;
+    top: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+    transform: rotate(180deg);
+}
+.custom-shape-divider-top-1643660103 svg {
+    position: relative;
+    display: block;
+    width: calc(191% + 1.3px);
+    height: 225px;
+}
+.custom-shape-divider-top-1643660103 .shape-fill {
+    fill: #FAFAFA;
+}
+
+#headerContainer {
+    display: flex; justify-content: flex-end;
+    width: 100%;
+    padding: 0.5em 0em;
+    background-color: var(--primaryColor);
+}
+#headerContainer > * {
+    height: 1.5em;
+    margin: 0.6em 1.5em;
+    transition: all 0.5s;
+}
+#headerContainer > *:hover {
+    transform: scale(1.1);
+}
+
+article > * {
+    color: var(--primaryColor);
+}
+#articleContainer1 {
+    height: 100%; width: 100%;
+    display: flex; justify-content: center;
+}
+#myGreet1, #myGreet2, #myGreet3 {
+    align-self: center;
+    position: relative; bottom: 0em;
+    margin: 0em 0.15em;
+    font-family: monospace; font-size: 2em;
+}
+
+#articleContainer2 {
+    display: flex; justify-content: center;
+}
+#myName {
+    align-self: center;
+    font-family: monospace; font-size: 3em;
+    position: relative; bottom: 3.45em;
+}
