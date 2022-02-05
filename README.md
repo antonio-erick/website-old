@@ -1,4 +1,4 @@
 # antonio-erick's website
 https://antonio-erick.github.io/website/
 
-**You can copy the code if you want to.**
+**Feel free to reverse engineer this and use it however you want to.**
