@@ -15,6 +15,7 @@ article {
     height: 50%;
 }
 footer {
+    display: flex;
     position: relative; top: 16.5em;
     height: 85vh;
     background-color: var(--primaryColor);
@@ -103,4 +104,13 @@ article > * {
 #footerContainer1 {
     height: 30em;
     margin: 0em 3em;
+}
+#footerContainer2 {
+    margin: 5em 0em 0em 0em;
+}
+#footerContainer2 > :first-child {
+    font-family: monospace; font-size: 3em;
+}
+#footerContainer2 > :last-child {
+    font-family: monospace; font-size: 1.5em;
 }
