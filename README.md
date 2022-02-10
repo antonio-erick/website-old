@@ -7,3 +7,7 @@ https://antonio-erick.github.io/website/
 
 ### Free tools used: 
   - [Shape Divider App](https://www.shapedivider.app/)
+  - [Trianglify](https://trianglify.io/)
+
+### Free Illustrations:
+ - [Undraw](https://undraw.co/)
