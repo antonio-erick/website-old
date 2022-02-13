@@ -5,11 +5,10 @@
 body {
     margin: 0em;
     padding: 0em;
-    background-image: url('assets/background/cool-background.png'); background-repeat: no-repeat; background-position: center;
-    background-size: cover;
 }
 main {
     height: 100vh;
+    background-image: url('assets/background/cool-background.png'); background-repeat: no-repeat; background-position: center; background-size: cover;
 }
 article {
     height: 50%;
