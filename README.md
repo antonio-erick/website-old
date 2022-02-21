@@ -1,5 +1,3 @@
-![GitHub issues](https://img.shields.io/github/issues/antonio-erick/website?style=for-the-badge)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/antonio-erick/website?style=for-the-badge)
 ![GitHub repo size](https://img.shields.io/github/repo-size/antonio-erick/website?style=for-the-badge)
 ![GitHub](https://img.shields.io/github/license/antonio-erick/website?style=for-the-badge)
 # antonio-erick's website
