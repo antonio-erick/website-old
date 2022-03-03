@@ -1,5 +1,5 @@
-![GitHub repo size](https://img.shields.io/github/repo-size/antonio-erick/website?style=for-the-badge)
-![GitHub](https://img.shields.io/github/license/antonio-erick/website?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/antonio-erick/website)
+![GitHub](https://img.shields.io/github/license/antonio-erick/website)
 # antonio-erick's website
 Live version [here](https://antonio-erick.github.io/website/).
 
