@@ -108,7 +108,7 @@ article > * {
 /* FOOTER */
 footer {
     display: flex;
-    position: relative; top: 16.5em;
+    position: relative; top: 16em;
     height: 85vh;
     background-color: var(--primaryColor);
 }
