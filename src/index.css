@@ -44,7 +44,7 @@ main {
     padding: 0.5em 0em;
 }
 #headerContainer > * {
-    height: 1.5em;
+    height: 1.5em; width: 2em;
     margin: 0.6em 1.5em;
     transition: all 0.5s;
 }
@@ -109,7 +109,7 @@ article > * {
 footer {
     display: flex;
     position: relative; top: 16em;
-    height: 85vh;
+    height: 0em;
     background-color: var(--primaryColor);
 }
 
