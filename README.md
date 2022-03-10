@@ -8,6 +8,9 @@ Live version [here](https://antonio-erick.github.io/website/).
 ## Overview
 This is my first attempt at making a simple and beatiful personal website. I mostly used vanilla HTML and vanilla CSS here, but there is also the use of a CSS library.
 
+#### Currently not size responsive.
+#### This website might break on some browsers.
+
 ## Resources
 #### Libraries used:
   - [Animate.css](https://animate.style/)
