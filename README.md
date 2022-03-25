@@ -1,7 +1,7 @@
 ![Pull Requests](https://img.shields.io/badge/PRs-welcome-brightgreen)
 ![GitHub repo size](https://img.shields.io/github/repo-size/antonio-erick/website)
 ![GitHub](https://img.shields.io/github/license/antonio-erick/website)
-# antonio-erick's website
+# antonio-erick's portfolio website
 Live version [here](https://antonio-erick.github.io/website/).
 
 
